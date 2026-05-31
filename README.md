@@ -1,4 +1,4 @@
-#Task 1: Data Cleaning & Preparation
+# Task 1: Data Cleaning & Preparation
 Goal
 Clean a Raw Dataset by Handling missing values, Inconsistencies, Duplicates, and Incorrect data type Format.
 
@@ -16,6 +16,7 @@ Handled Missing & Duplicate Data: No duplicate values were found in the Order ID
 Standardized Format: AlL the inconsistencies in the Categorical columns were capitalized and trimmed.
 Number Formnats: I Changed all the columns into their proper data type format.
 Changed the Total price and Unit Price to Currency ($) to 2 decimal places for accurate trend analysis.
+
 
 # Task 2: Exploratory Data Analysis (EDA)
 
@@ -39,6 +40,7 @@ My goal is to understand the data, find problems, and get ideas for what to anal
 - Total Price Kurtosis = -0.040414 • Almost exactly 0. . The distribution is mesokurtic - very close to a normal distribution in terms of tail weight and outlier propensity.
 - Unit Price Kurtosis = -1.19101 • Negative • Tails are much lighter than normal. · Distribution has fewer extreme outliers and a flatter peak (or a rounded, box-like shape) Compared to normal.
 - Quantity Kurtosis (excess) = -1.29459 • Even more negative than 2. . Very light tails, very flat relative to normal. . Very low probability of extreme values.
+
 
 # Task 3: SQL Data Analysis
 
@@ -70,4 +72,42 @@ which is significantly high and indicates potential issues in the business) VIns
 ## Experience
 I encountered a lot of bugs while coding but was determined to handle it and boom! I did it after several trials.
 A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
+
+
+# Task 4 Create Chart (Bar, pie and line)
+
+## Goal
+Create a visual representation of data to communication insights clearly and also telling stories with data.
+
+## Key Requirements
+- Data Visualization 
+- Charts 
+- Storytelling with data
+
+## Here's the outcome
+- Chairs ($195.6) & Printer ($195.6) represent the highest strategic cash flow.
+- Instagram & Facebook together drive 41.61% of revenue, prioritize social ad spend.
+- 41.4% of orders are lost to cancellations and returns.
+- Online is the most popular payment Method.
+- Peak:June 2024 has $68,068.
+
+## Files in this Repo
+- Excel.xlxs – Data Cleaning 
+- Excel.xlxs - Descriptive Statistics
+- Excel.Xlxs - Exploratory Data Analysis
+- Excel.Xlxs - Pivot table and Dashboard 
+- dataset.xlxs – Dataset used.
+- Sql.sql - MySQL
+
+A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
+  
+
+## Tools Used
+- Excel
+- Excel Formulas 
+- SQL
+- Descriptive Statistics
+- Exploratory Data Analysis
+- Pivot Table
+- Dashboard.
 
