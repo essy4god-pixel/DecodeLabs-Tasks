@@ -14,7 +14,7 @@ I clean to ensure absolute accuracy in the dataset.
 Here is a breakdown of my data cleaning process:
 Handled Missing & Duplicate Data: No duplicate values were found in the Order ID while missing values in columns like Coupon codes column was replaced with "No Coupon" Because the missing values were over 20% values of the dataset.
 Standardized Format: AlL the inconsistencies in the Categorical columns were capitalized and trimmed.
-Number Formnats: I Changed all the columns into their proper data type format.
+Number Formats: I Changed all the columns into their proper data type format.
 Changed the Total price and Unit Price to Currency ($) to 2 decimal places for accurate trend analysis.
 
 
