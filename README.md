@@ -91,12 +91,11 @@ Business insight generation and recommendations
 
 
 
-About the Author
-# Akumah Esther Chinomso — Entry-level Data Analyst based in Port Harcourt, Nigeria.
-# Open to remote data analyst roles globally.
-# LinkedIn: linkedin.com/in/esther-akumah
-# GitHub: github.com/akumahesther
-# Email: akumahesther@gmail.com
+# About the Author
+Akumah Esther Chinomso — Entry-level Data Analyst based in Port Harcourt, Nigeria.
+Open to remote data analyst roles globally.
+LinkedIn: linkedin.com/in/esther-akumah
+GitHub: github.com/akumahesther Email: akumahesther@gmail.com
 
 
 
