@@ -1,4 +1,4 @@
-# Task 1: Data Cleaning & Preparation
+# Step 1: Data Cleaning & Preparation
 Goal
 Clean a Raw Dataset by Handling missing values, Inconsistencies, Duplicates, and Incorrect data type Format.
 
@@ -18,7 +18,7 @@ Number Formnats: I Changed all the columns into their proper data type format.
 Changed the Total price and Unit Price to Currency ($) to 2 decimal places for accurate trend analysis.
 
 
-# Task 2: Exploratory Data Analysis (EDA)
+# Step 2: Exploratory Data Analysis (EDA)
 
 ## Goal
 Analyze a dataset to understand patterns, 
@@ -42,7 +42,7 @@ My goal is to understand the data, find problems, and get ideas for what to anal
 - Quantity Kurtosis (excess) = -1.29459 • Even more negative than 2. . Very light tails, very flat relative to normal. . Very low probability of extreme values.
 
 
-# Task 3: SQL Data Analysis
+# Step 3: SQL Data Analysis
 
 ## Goal
 Use SQL queries to extract insights from a dataset.
@@ -74,7 +74,7 @@ I encountered a lot of bugs while coding but was determined to handle it and boo
 A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
 
 
-# Task 4 Create Chart (Bar, pie and line)
+# Step 4 Create Chart (Bar, pie and line)
 
 ## Goal
 Create a visual representation of data to communication insights clearly and also telling stories with data.
@@ -99,7 +99,7 @@ Create a visual representation of data to communication insights clearly and als
 - dataset.xlxs – Dataset used.
 - Sql.sql - MySQL
 
-A Special thanks to Decodelabs for providing and giving me such privilege to hands-on practice. I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
+I'm ever willing to handle a real dataset and create actionable insights from them. I'm learning and growing by the day.
   
 
 ## Tools Used
