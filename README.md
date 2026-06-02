@@ -1,4 +1,5 @@
-# Tools Used: Excel · SQL (MySQL) · Power BI
+# Tools Used: 
+Excel · SQL (MySQL) · Power BI
 
 Dataset: 1,200 e-commerce transaction records
 Author: Akumah Esther Chinomso
@@ -7,14 +8,15 @@ Author: Akumah Esther Chinomso
 # Project Overview
 
 An end-to-end data analytics project analyzing e-commerce sales performance across 1,200 transactions.
-The project covers the full analyst workflow — from raw data cleaning through exploratory analysis, SQL querying, and final dashboard delivery.
-Key business findings:
-Total revenue of $1.26M across 1,200 orders
-41.4% of orders were cancelled or returned — a critical business risk
-Chairs and Printers were the top revenue-generating product categories at $195.6k each
-Instagram drove the highest revenue of all referral channels
-Online was the most popular payment method
-Peak revenue month: June 2024 at $68,068
+The project covers the full analyst workflow from raw data cleaning through exploratory analysis, SQL querying, and final dashboard delivery.
+
+- Key business findings:
+- Total revenue of $1.26M across 1,200 orders
+- 41.4% of orders were cancelled or returned a critical business risk
+- Chairs and Printers were the top revenue generating product categories at $195.6k each
+- Instagram drove the highest revenue of all referral channels
+- Online was the most popular payment method
+- Peak revenue month: June 2024 at $68,068
 
 
 # Step 1 — Data Cleaning & Preparation
